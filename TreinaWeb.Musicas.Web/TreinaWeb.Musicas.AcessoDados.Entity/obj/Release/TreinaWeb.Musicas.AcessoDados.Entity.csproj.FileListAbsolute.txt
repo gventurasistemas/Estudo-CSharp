@@ -1,0 +1,16 @@
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Musicas.AcessoDados.Entity.dll.config
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\EntityFramework.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Comum.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Musicas.Dominio.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Comum.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\EntityFramework.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Release\TreinaWeb.Musicas.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Release\TreinaWeb.Musicas.AcessoDados.Entity.Migrations.MigracaoInicial.resources
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Release\TreinaWeb.Musicas.AcessoDados.Entity.csproj.GenerateResource.Cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Release\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Release\TreinaWeb.Musicas.AcessoDados.Entity.pdb

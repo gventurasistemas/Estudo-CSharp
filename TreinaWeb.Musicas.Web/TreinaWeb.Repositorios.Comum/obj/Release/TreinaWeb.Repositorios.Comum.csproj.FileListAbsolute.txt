@@ -1,0 +1,5 @@
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\bin\Release\TreinaWeb.Repositorios.Comum.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\bin\Release\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Release\TreinaWeb.Repositorios.Comum.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Release\TreinaWeb.Repositorios.Comum.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Release\TreinaWeb.Repositorios.Comum.pdb

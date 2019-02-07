@@ -1,0 +1,4 @@
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Release\TreinaWeb.Musicas.Dominio.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Release\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Release\TreinaWeb.Musicas.Dominio.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Release\TreinaWeb.Musicas.Dominio.pdb

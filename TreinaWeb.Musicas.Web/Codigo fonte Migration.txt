@@ -1,0 +1,17 @@
+Criar Migration
+PM> Enable-Migrations -ProjectName TreinaWeb.Musicas.AcessoDados.Entity
+Enable-Migrations 
+
+Adicionar Tabela
+PM> Add-Migration MigracaoInicial -ProjectName TreinaWeb.Musicas.AcessoDados.Entity -StartUpProjectName TreinaWeb.Musicas.AcessoDados.Entity
+ Add-Migration MigracaoInicial 
+
+
+Atualização da Tabela
+PM> Update-Database -ProjectName TreinaWeb.Musicas.AcessoDados.Entity -StartUpProjectName TreinaWeb.Musicas.AcessoDados.Entity -Verbose
+Update-Database -Verbose
+
+
+
+
+SetSqlGenerator("MySql.Data.MySqlClient", new MySql.Data.EntityFramework.MySqlMigrationSqlGenerator());

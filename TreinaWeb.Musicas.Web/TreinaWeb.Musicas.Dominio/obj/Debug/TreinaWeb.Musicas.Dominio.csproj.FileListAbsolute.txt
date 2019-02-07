@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.Dominio\obj\Debug\TreinaWeb.Musicas.Dominio.pdb

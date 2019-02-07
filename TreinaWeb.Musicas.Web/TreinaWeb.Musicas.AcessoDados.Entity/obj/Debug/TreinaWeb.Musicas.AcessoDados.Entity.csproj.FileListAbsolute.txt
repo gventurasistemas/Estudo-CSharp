@@ -1,0 +1,47 @@
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll.config
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll.config
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.Migrations.MigracaoInicial.resources
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.csproj.GenerateResource.Cache
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll.config
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.Dominio.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\TreinaWeb.Musicas.Dominio.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.Migrations.MigracaoInicial.resources
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.csproj.GenerateResource.Cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Musicas.AcessoDados.Entity\obj\Debug\TreinaWeb.Musicas.AcessoDados.Entity.Migrations.AdicaoMusica.resources

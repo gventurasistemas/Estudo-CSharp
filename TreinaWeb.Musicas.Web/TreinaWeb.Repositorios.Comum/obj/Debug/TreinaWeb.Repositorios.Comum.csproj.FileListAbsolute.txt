@@ -1,0 +1,10 @@
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\bin\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\bin\Debug\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\bin\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\bin\Debug\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum\obj\Debug\TreinaWeb.Repositorios.Comum.pdb

@@ -1,0 +1,30 @@
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\USER\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\USER\Desktop\Estudo CSharp\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll.config
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\TreinaWeb.Comum.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Comum.Entity\obj\Debug\TreinaWeb.Comum.Entity.pdb

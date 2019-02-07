@@ -1,0 +1,12 @@
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\TreinaWeb.Repositorios.Comum.Entity.dll.config
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\TreinaWeb.Repositorios.Comum.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\TreinaWeb.Repositorios.Comum.Entity.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\EntityFramework.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\TreinaWeb.Repositorios.Comum.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\TreinaWeb.Repositorios.Comum.pdb
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\EntityFramework.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\obj\Release\TreinaWeb.Repositorios.Comum.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\obj\Release\TreinaWeb.Repositorios.Comum.Entity.dll
+C:\Users\Gelson\Desktop\TreinaWeb.Musicas.Web\TreinaWeb.Repositorios.Comum.Entity\obj\Release\TreinaWeb.Repositorios.Comum.Entity.pdb
